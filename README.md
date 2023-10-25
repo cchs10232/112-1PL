@@ -7,5 +7,5 @@
 ## 課程筆記區
 
 ## 作業連結區
-##🌎HW1
+[HW1]([URL](https://github.com/cchs10232/112-1PL/blob/main/HW1/HW1.ipynb)https://github.com/cchs10232/112-1PL/blob/main/HW1/HW1.ipynb)
 ## 專題連結區
