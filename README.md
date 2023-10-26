@@ -4,11 +4,14 @@
 **系級：** 設計學系 
   
 # 目錄  
-* [**作業連結區**](https://github.com/cchs10232/112-1PL#作業連結區)  
-  * [作業一](https://github.com/ett9292/PL#作業一)  
-  * [作業二](https://github.com/ett9292/PL#作業二)
-  * [作業三](https://github.com/ett9292/PL#作業三)
-  * [作業四](https://github.com/ett9292/PL#作業四)
-  * [作業五](https://github.com/ett9292/PL#作業五)
-* [**課程筆記區**]  
-* [**專題連結區**]
+## 課程筆記區
+
+## 作業連結區
+  老師對不起，我的程式語言理解速度比較慢，作業可能沒辦法準時交但我會盡快跟上大家的進度的QAQ
+  HW1 : [HW1](https://github.com/cchs10232/112-1PL/blob/main/HW1/HW1.ipynb)
+  HW2 : 還在努力QAQ
+  HW3 : 還在努力qwq
+  HW4 : 還沒教!
+  HW5 : 還沒教!
+  
+## 專題連結區
