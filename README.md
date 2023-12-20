@@ -12,10 +12,10 @@
   
   [HW2](https://github.com/cchs10232/112-1PL/blob/main/HW2/HW2.ipynb)
   
-  HW3 : 還在努力qwq
+  [HW3](https://github.com/cchs10232/112-1PL/blob/main/HW3/HW3.ipynb)
   
-  HW4 : 還沒教!
+  HW4 : 還在努力!
   
-  HW5 : 還沒教!
+  HW5 : 還在努力!
   
 ## 專題連結區
