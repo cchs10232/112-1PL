@@ -10,7 +10,7 @@
   
   [HW1](https://github.com/cchs10232/112-1PL/blob/main/HW1/HW1.ipynb)
   
-  [HW2] (https://github.com/cchs10232/112-1PL/blob/main/HW2/HW2.ipynb)
+  [HW2](https://github.com/cchs10232/112-1PL/blob/main/HW2/HW2.ipynb)
   
   HW3 : 還在努力qwq
   
