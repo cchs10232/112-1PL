@@ -7,7 +7,6 @@
 ## 課程筆記區
 
 ## 作業連結區
-  老師對不起，我的理解速度比較慢，作業可能沒辦法準時交但我會盡快跟上大家的進度的QAQ
   
   [HW1](https://github.com/cchs10232/112-1PL/blob/main/HW1/HW1.ipynb)
   
